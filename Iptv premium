@@ -1,0 +1,1229 @@
+#EXTM3U
+
+###### INDONESIA ######
+#EXTINF:-1 group-title="INDONESIA",BTV Balikpapan
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESOFKiybUvkFuLbjTY3-UF3-ETXB5JJ9nlv671K2bbyv8OTv6-w&s" group-title="INDONESIA",GLOBAL TV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1590683104~acl=/hls-p/ingest_778_*/*~hmac=d937bfa90650b650139be1683f33f05914d3724fb29d04ff3824b1b355b89841/hls-p/ingest_778_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png"  group-title="INDONESIA",RCTI 
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPm5ytF.png" group-title="INDONESIA",MNCTV 
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR HD
+https://dl.dropbox.com/s/puigzo029f0qscp/indosiar.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV
+https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV FHD
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV SD
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7 SD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7 HD
+https://dl.dropbox.com/s/e5si1bmmtx4hgq9/trans7.m3u8?dl=0
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="INDONESIA",Trans Tv 
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="INDONESIA",Trans Tv  1
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="INDONESIA",Trans Tv  HD
+https://dl.dropbox.com/s/hk7utortqj7x18x/transtv.m3u8?dl=0
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f6/TvOne_Logo%282012%29.svg/1280px-TvOne_Logo%282012%29.svg.png" group-title="INDONESIA",TVONE HD
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="INDONESIA",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="INDONESIA",METRO TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="INDONESIA",METRO TV SD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="INDONESIA",TVRI SD
+http://stream1.ninmedia.tv:1935/tvrinasional/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="INDONESIA",TVRI NASIONAL
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="INDONESIA",TVRI HD
+https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w1749115649_b684100_sleng_92614.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="INDONESIA",TVRI FHD
+http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="INDONESIA",TVRI_1
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="INDONESIA",NET TV
+https://dl.dropbox.com/s/b1czwxfwgaopeqz/net.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="INDONESIA",NET TV FHD
+https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBWB003/cnnin.png" group-title="INDONESIA",CNN Indonesia SD
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBWB003/cnnin.png" group-title="INDONESIA",CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.lokernas.id/wp-content/uploads/2019/07/645x430-seni-cnn-indonesia-menggelinding-di-layar-kaca-1506136-58cc17797eafbd42350a7648.jpg?w=640&ssl=1" group-title="INDONESIA",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="INDONESIA",Berita Satu 2
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="INDONESIA",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
+
+
+
+###### OLAHRAGA ######
+#EXTINF:-1  group-title="TV OLAHRAGA",BUNDESLIGA
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1  group-title="TV OLAHRAGA",CHAMPION 1
+https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w606951952_b1344100_sleng_54765.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",CHAMPION 2
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w670832473_b894100_sleng_4803.m3u8
+
+#EXTINF:-1  group-title="TV OLAHRAGA",Bein sport extra
+https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",BEIN SPORT 1
+https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",BEIN SPORT 2
+https://cdnbal1.useetv.com/joss/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",FOX SPORTS 1
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w478388508_b894100_sleng_90945.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",FOX SPORTS 1 HD
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",FOX SPORTS 2
+https://cdnmdc1.useetv.com/joss/15/foxsport2/chunklist_w1843670031_b684100_sleng_enc=0mnw-vu_-tYisiS4VjqDnw.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",FOX SPORTS 3
+https://cdnkbl1.useetv.com/joss/15/foxsport3/chunklist_w1036403467_b684100_sleng_enc=dZVe0sRkRgVGf8sNJE0QRg.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",Eleven Sports 1
+http://207.110.52.62:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",Eleven Sports 2
+http://207.110.52.62:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",Viasat Sport East
+http://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",Mola sport
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/05.m3u8
+
+#EXTINF:-1  group-title="TV OLAHRAGA",DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",DD SPORTS SD
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",DSport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+
+
+#EXTINF:-1  group-title="TV OLAHRAGA",Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="TV OLAHRAGA",Real Madrid 2
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",RTM Sports
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",Extremadura TV
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",Varzesh TV
+http://51.158.66.44/hls/stream.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",Varzesh TV 2
+http://51.158.176.190/hls/stream.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",Varzesh TV 3
+http://51.15.236.137/hls/stream.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",Varzesh TV 4
+http://163.172.138.186/hls/stream.m3u8
+#EXTINF:-1  group-title="TV OLAHRAGA",SPORTAL HD
+http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
+
+
+##### RELIGI ######
+
+#EXTINF:-1  group-title="TV RELIGI",AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1  group-title="TV RELIGI",AL Bahjah 
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+#EXTINF:-1  group-title="TV RELIGI",Nabawi TV
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+#EXTINF:-1  group-title="TV RELIGI",Hidup TV
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+#EXTINF:-1  group-title="TV RELIGI",I AM Channel
+http://iamchannel.org:1935/tes/1/chunklist.m3u8
+#EXTINF:-1  group-title="TV RELIGI",EWTN
+http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
+#EXTINF:-1  group-title="TV RELIGI",CHANEL V
+http://123.26.151.42:4022/rtp/232.84.1.13:8052
+
+
+###### ANAK-ANAK ######
+#EXTINF:-1  group-title="TV ANAK-ANAK",Tom&Jery TV
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjMXQ2d2qv8-AWoxKOWboph0KAwgc6qJ7DWL1AZf6w0mCMqIl1" group-title="TV ANAK-ANAK",Tom & Jerry
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="TV ANAK-ANAK",DISNEY JUNIOR Indo SD
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="TV ANAK-ANAK",DISNEY JUNIOR Indo HD
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:0 tvg-logo="https://img.favpng.com/19/6/5/disney-channel-television-channel-disney-xd-the-walt-disney-company-disney-junior-png-favpng-9Lqu7NgcVLfnwLhjUcCPDb55z.jpg" group-title="TV ANAK-ANAK",Disney Channel 2
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1  group-title="TV ANAK-ANAK",Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png"  group-title="TV ANAK-ANAK",3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSn99xMsFA0pQ-0_Gc4ltchIQJIpV8q1Nz7DBWvowR06B_m0Vbz" group-title="TV ANAK-ANAK",Larva
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="TV ANAK-ANAK",Spacetoon
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/03.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="TV ANAK-ANAK",Spacetoon
+http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
+#EXTINF:-1  group-title="TV ANAK-ANAK",SPACETOON
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-cx7r6MYISVo/WRz76Ia7waI/AAAAAAAA5mI/T6ZVlOD-X6ESotJEL7rwzrCresCMyZaUACLcB/s640/cartoonnetworkhdb.png" group-title="TV ANAK-ANAK",Cartoon Network 1
+http://188.35.9.11:21151/udp/185f
+#EXTINF:-1  group-title="TV ANAK-ANAK",Cartoon Network
+https://dl.dropbox.com/s/eyfch39sot2it92/carton.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-cx7r6MYISVo/WRz76Ia7waI/AAAAAAAA5mI/T6ZVlOD-X6ESotJEL7rwzrCresCMyZaUACLcB/s640/cartoonnetworkhdb.png" group-title="TV ANAK-ANAK",Cartoon Network 2
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" group-title="TV ANAK-ANAK",Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#EXTINF:-1  group-title="TV ANAK-ANAK",GEM KIDS
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w2136739086.m3u8
+#EXTINF:-1  group-title="TV ANAK-ANAK",GEM Kids
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1  group-title="TV ANAK-ANAK",GEM KID
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w1290919452.m3u8
+#EXTINF:-1  group-title="TV ANAK-ANAK",GEM JUNIOR
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+#EXTINF:-1  group-title="TV ANAK-ANAK",GEM JUNIOR 
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist_w1049727759.m3u8
+
+#EXTINF:-1  group-title="TV ANAK-ANAK",DUCK
+http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
+
+
+#EXTINF:-1  group-title="TV ANAK-ANAK",3ABNKIDS.TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+
+
+#EXTINF:-1  group-title="TV ANAK-ANAK" ,Kids Central
+http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="TV ANAK-ANAK",MIAOMI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+#EXTINF:-1  tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="TV ANAK-ANAK",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+
+#EXTINF:-1  group-title="TV ANAK-ANAK",BOING
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180802/rtl/kisspng-logo-boomerang-television-channel-high-definition-file-boomerang-hd-png-tvcl-tv-channel-lists-5b6379a905e444.1540880715332458650241.jpg" group-title="TV ANAK-ANAK",Boomerang Backup
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180802/rtl/kisspng-logo-boomerang-television-channel-high-definition-file-boomerang-hd-png-tvcl-tv-channel-lists-5b6379a905e444.1540880715332458650241.jpg" group-title="TV ANAK-ANAK",boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
+
+
+#EXTINF:-1  group-title="TV ANAK-ANAK",Horee
+https://dl.dropbox.com/s/63s89rm1bggmna6/hore.m3u8?dl=0
+
+
+
+###### PENGETAHUAN ######
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMJU_9tQ7p7AL9yxk99lg7Ajr7muv151xM9D6HJObyzuJ3Z7Uu" group-title="TV PENGETAHUAN",OCEAN TV
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSJNQJ_vTiDRPRxrV0heKYOcfzy5mMG2bmtJZjE1c1CZIxy9lJ" group-title="TV PENGETAHUAN",National Geographic 2
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHOB5zHoRFPkgNLCKGfakhcNeS3Z2pgWULAfR14HQxDYTWyKH2" group-title="TV PENGETAHUAN",NAT GEO People 2
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
+
+#EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="TV PENGETAHUAN",Nat Geo Wild Eng
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
+
+#EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="TV PENGETAHUAN",Nat Geo Wild (Backup)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1  group-title="TV PENGETAHUAN",NAT GEO
+https://cdnkbl1.useetv.com/joss/15/natgeo/chunklist_w1392773337_b894100_sleng_308170.m3u8
+#EXTINF:-1  group-title="TV PENGETAHUAN",NAT GEO WILD
+https://cdnkbl1.useetv.com/joss/15/natgeowild/chunklist_w834124031_b894100_sleng_308176.m3u8
+#EXTINF:-1  group-title="TV PENGETAHUAN",NAT GEO PEOPLE
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/03.m3u8
+#EXTINF:-1  group-title="TV PENGETAHUAN",DISCOVERY
+https://cdnjt25.useetv.com/joss/15/disco/chunklist_w96522090_b1344100_sleng_433272.m3u8
+
+
+
+###### HIBURAN ######
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="TV HIBURAN",Blue Ant Extreme
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+
+#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="TV HIBURAN",AXN
+http://210.210.155.66/h/h141/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV HIBURAN", FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV HIBURAN", FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=49DA2BA4E5AD744321A0A9A18B14BBD86901A8A2&profile=pass
+#EXTINF:-1 group-title="TV HIBURAN",Fox Movies Premium
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+#EXTINF:-1  group-title="TV HIBURAN",FOX FILM MOVIES
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV HIBURAN", FOX Family Movies SD
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV HIBURAN", FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="TV HIBURAN",Fox Movies ID
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV HIBURAN", Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+
+
+#EXTINF:-1  group-title="TV HIBURAN",AXN
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+#EXTINF:-1  group-title="TV HIBURAN",History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=A6B5FCF4BEA85CDC157E4CF8DAE0FE22C9FA8432&profile=pas
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="TV HIBURAN",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="TV HIBURAN",HBO Family
+http://www.stgiptv.online/dyos_session/mpd/HBO/famhd.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="TV HIBURAN",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
+#EXTINF:-1  group-title="TV HIBURAN",HBO HD
+http://www.stgiptv.online/dyos_session/mpd/HBO/hbohd.m3u8
+#EXTINF:-1  group-title="TV HIBURAN",HBO HITS
+http://www.stgiptv.online/dyos_session/mpd/HBO/hitshd.m3u8
+#EXTINF:-1  group-title="TV HIBURAN",HBO SINGATURE
+http://www.stgiptv.online/dyos_session/mpd/HBO/sighd.m3u8
+#EXTINF:-1  group-title="TV HIBURAN",HBO CINEMAX
+http://www.stgiptv.online/dyos_session/mpd/HBO/maxhd.m3u8
+#EXTINF:-1  group-title="TV HIBURAN",HBO RED
+http://www.stgiptv.online/dyos_session/mpd/HBO/red.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="TV HIBURAN",JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+
+#EXTINF:-1  group-title="TV HIBURAN",KIX
+https://edgejt7.useetv.com/joss/15/kix/chunklist_w1088520910_b894100_sleng_307710.m3u8
+#EXTINF:-1  group-title="TV HIBURAN",Thrill
+https://cdnkbl1.useetv.com/joss/14/thrill/chunklist_w1908435488_b684100_sleng_enc=j-4Qzu_q1WzLnzFvI7gExQ.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="TV HIBURAN",Blue Ant Extreme
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV HIBURAN",Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV HIBURAN",STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+
+
+###### HIBURAN TV FILM ######
+
+#EXTINF:-1  group-title="HIBURAN TV FILM",MOMEDY NOW
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",THE WORK
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",STAR WORLD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",RAI MOVIES
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",SONY MAX 1
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",B4U TV
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(02)/index.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",Bollywood HD
+http://109.95.47.162:8080/Bollywood_HD/mono.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",Canal 2 (Молдова)
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",Evgen Serial
+http://autopilot.myowntv.org/content2/36168/index.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",Evgen VHS
+http://autopilot.myowntv.org/content2/36251/index.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",Evgen СССР
+https://v2.catcast.me/content/36506/index.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",Evgen Ужасы
+http://autopilot.myowntv.org/content2/36277/index.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",TLC Russia
+http://178.217.72.66:80/225.201.2.92/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",TVM Channel
+http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",VIP Comedy
+http://178.217.72.66:80/225.201.2.170/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",VIP Comedy HD
+http://178.217.72.66/225.201.2.170/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",VIP Megahit
+http://178.217.72.66:80/225.201.2.171/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",VIP Megahit HD
+http://178.217.72.66/225.201.2.171/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",VIP Premiere
+http://178.217.72.66:80/225.201.2.172/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",ViP Premiere HD
+http://178.217.72.66/225.201.2.172/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",VRT.TV
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
+#EXTINF:-1  group-title="HIBURAN TV FILM",Shot TV
+http://178.217.72.66/225.201.2.107/tracks-v1a1/mono.m3u8
+
+
+
+###### MUSIK #####
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="MUSIK",Trace Urban
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s2961/images/logog.jpg" group-title="MUSIK",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="MUSIK",California Music
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/mtv-logo-png-open-2000.png" group-title="MUSIK",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1  group-title="MUSIK",Prambors
+https://cdnbpp1.useetv.com/joss/14/pramborstv/chunklist_w229786603_b684100_sleng_paskas.m3u8
+#EXTINF:-1  group-title="MUSIK",Prambors1
+https://cdnbpp1.useetv.com/joss/14/pramborstv/chunklist_w229786603_b684100_sleng_paskas.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/426px-MTV_Logo.svg.png" group-title="MUSIK",MTV+
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTE0y1Jo7mTOM6X78bwRQ8BoZ6TgHZnXk2hZE9wmOEfhtrOIae7" group-title="MUSIK",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:-1  group-title="MUSIK",T MUSIK
+https://cdnjt22.useetv.com/joss/14/tmusic/chunklist_w870068905_b684100_sleng_138940.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7oHRbxKOo2pAkoJ3VSw9ARmIjfPHuDs2SyU9TWso2n3Z5-3RJ" group-title="MUSIK",MIX
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MUSIK",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTQ8BvoLcW9Mn7Sx7XEpzTDvcOlRUlIYdWFkBRKPbAKp4RGP4g" group-title="MUSIK",One Music
+http://rtmp.one.by:1300
+
+
+
+
+###### TV DAERAH ######
+#EXTINF:-1  group-title="TV DAERAH",CTV BANTEN
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1  group-title="TV DAERAH",BANDUNG TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1  group-title="TV DAERAH",JAWA POS
+https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
+#EXTINF:-1  group-title="TV DAERAH",AREK TV
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+#EXTINF:-1  group-title="TV DAERAH",Arek TV
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+#EXTINF:-1  group-title="TV DAERAH",MGS TV
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+#EXTINF:-1  group-title="TV DAERAH",RT6V RIAU
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+#EXTINF:-1  group-title="TV DAERAH",HOME AND LIVING
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:-1  group-title="TV DAERAH",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1  group-title="TV DAERAH",LOMBOK TV
+http://103.23.201.170:1935/live/lbtv/chunklist_w1995349508.m3u8
+#EXTINF:-1  group-title="TV DAERAH",BETV Bengkulu
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+#EXTINF:-1  group-title="TV DAERAH",Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
+#EXTINF:-1  group-title="TV DAERAH",PADANG TV
+https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
+#EXTINF:-1  group-title="TV DAERAH",BayuTV Nganjuk
+http://wms.klikhost.com/bayutv/live/playlist.m3u8
+#EXTINF:-1  group-title="TV DAERAH",Padang TV
+http://122.248.43.138:1935/ch16/myStream/live.m3u8
+#EXTINF:-1  group-title="TV DAERAH",Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1  group-title="TV DAERAH",RTV Riau
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+#EXTINF:-1  group-title="TV DAERAH",SBO TV Surabaya
+http://122.248.43.138:1935/ch13/myStream/live.m3u8
+#EXTINF:-1  group-title="TV DAERAH",BTV Balikpapan
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+#EXTINF:-1  group-title="TV DAERAH",ADiTV Yogyakarta
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1  group-title="TV DAERAH",Jek TV Jambi
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+#EXTINF:-1  group-title="TV DAERAH",Jambi TV
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+#EXTINF:-1  group-title="TV DAERAH",RBTV Bengkulu
+http://122.248.43.138:1935/ch12/myStream/live.m3u8
+#EXTINF:-1  group-title="TV DAERAH",BETV Bengkulu
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+#EXTINF:-1  group-title="TV DAERAH",TVKU Semarang
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1  group-title="TV DAERAH",RCTV Cirebon
+http://122.248.43.138:1935/ch9/myStream/live.m3u8
+
+
+#EXTINF:-1  group-title="MALAYSIA",RTM Sport
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1  group-title="MALAYSIA",RTB
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+#EXTINF:-1  group-title="MALAYSIA",SURIA
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1  group-title="MALAYSIA",RTM 1 HD
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1  group-title="MALAYSIA",RTM 2 HD
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1  group-title="MALAYSIA",RTB
+https://rtb-channel.glue.live/smil:rtb1/chunklist_w1024390679_b2736000_sleng.m3u8
+#EXTINF:-1  group-title="MALAYSIA",RTM 1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1  group-title="MALAYSIA",RTM 2
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1  group-title="MALAYSIA",TV3
+https://dl.dropboxusercontent.com/s/oba4i3j9mmszk7t/tv3.m3u8?dl=0
+#EXTINF:-1  group-title="MALAYSIA",TV7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+#EXTINF:-1  group-title="MALAYSIA",TV8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+#EXTINF:-1  group-title="MALAYSIA",TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+#EXTINF:-1  group-title="MALAYSIA",OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+#EXTINF:-1  group-title="MALAYSIA",DRAMA SANGAT HD
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+#EXTINF:-1  group-title="MALAYSIA",RTB
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+#EXTINF:-1  group-title="MALAYSIA",ASTRO NAURA
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+#EXTINF:-1  group-title="MALAYSIA",ASTRO GOSHOP
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+#EXTINF:-1  group-title="MALAYSIA",ASTRO AWANI
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+#EXTINF:-1  group-title="MALAYSIA",ASTRO SURIA
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+
+#EXTINF:-1  group-title="MALAYSIA",Astro Ria
+https://dl.dropboxusercontent.com/s/6phdlnye69n6469/ria.m3u8?dl=0
+
+#EXTINF:-1  group-title="MALAYSIA",Astro Citra
+https://dl.dropbox.com/s/req6wk7rchn9hhh/acitra.m3u8?dl=0
+#EXTINF:-1  group-title="MALAYSIA",Astro Oasis
+https://dl.dropboxusercontent.com/s/i2aaztikdn0l0nv/oasis.m3u8?dl=0
+#EXTINF:-1  group-title="MALAYSIA",Astro BOO
+https://dl.dropboxusercontent.com/s/u04mt8q7y9goiy6/boo.m3u8?dl=0
+#EXTINF:-1  group-title="MALAYSIA",Astro Warna
+https://dl.dropboxusercontent.com/s/j4qxbpzwblmi2r0/warna.m3u8?dl=0
+#EXTINF:-1  group-title="MALAYSIA",Arena
+http://45.58.62.92:8080
+#EXTINF:-1  group-title="MALAYSIA",Astro Ria Backup
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+#EXTINF:-1  group-title="MALAYSIA",Astro Warna Backup
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1  group-title="MALAYSIA",Astro Ceria Backup
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1  group-title="MALAYSIA",TV3 Backup
+https://dl.dropboxusercontent.com/s/oba4i3j9mmszk7t/tv3.m3u8?dl=0
+#EXTINF:-1  group-title="MALAYSIA",TV3 Backup
+http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
+#EXTINF:-1  group-title="MALAYSIA",TVIKIM
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:-1  group-title="MALAYSIA",TV sport 2
+https://dl.dropboxusercontent.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
+#EXTINF:-1  group-title="MALAYSIA",MEDIA CORP5
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+#EXTINF:-1  group-title="MALAYSIA",MEDIA CORP8
+http://d34e90s3s13i7n.cloudfront.net:80/hls/ch8ctv/master.m3u8
+#EXTINF:-1  group-title="MALAYSIA",ABR
+http://edge.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:-1  group-title="MALAYSIA",RTM Sports
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+#EXTINF:-1  group-title="MALAYSIA",Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
+#EXTINF:-1  group-title="MALAYSIA",Astro Prima
+https://dl.dropboxusercontent.com/s/uylwgbt12bjtemv/prima.m3u8?dl=0
+
+
+#EXTINF:-1  group-title="ARAB",Abu Dhabi Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
+#EXTINF:-1  group-title="ARAB",Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1  group-title="ARAB",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1  group-title="ARAB",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1  group-title="ARAB",Al Kass Sports 1 
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1  group-title="ARAB",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1  group-title="ARAB",Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1  group-title="ARAB",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1  group-title="ARAB",Al Kass Sports Online
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnline1arsbt/master.m3u8
+#EXTINF:-1  group-title="ARAB",Dubai Sports 1
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+#EXTINF:-1  group-title="ARAB",Dubai Sports 2
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1  group-title="ARAB",Dubai Sports 3
+http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1  group-title="ARAB",Iraqiya Sports
+https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
+#EXTINF:-1  group-title="ARAB",Nile Sports
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
+
+#EXTINF:-1  group-title="ARAB",MBC 1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
+#EXTINF:-1  group-title="ARAB",MBC 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+#EXTINF:-1  group-title="ARAB",MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
+#EXTINF:-1  group-title="ARAB",MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/03.m3u8
+#EXTINF:-1  group-title="ARAB",MBC ACTION
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
+#EXTINF:-1  group-title="ARAB",MBC MAX
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
+#EXTINF:-1  group-title="ARAB",MBC Bolly
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
+#EXTINF:-1  group-title="ARAB",MBC Drama
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
+#EXTINF:-1  group-title="ARAB",MBC Action
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
+#EXTINF:-1  group-title="ARAB",Cinema One
+http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
+#EXTINF:-1  group-title="ARAB",Music Now
+http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
+#EXTINF:-1  group-title="ARAB",Rotana Music
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/03.m3u8
+#EXTINF:-1  group-title="ARAB",Rotana Aflam
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/03.m3u8
+#EXTINF:-1  group-title="ARAB",Rotana Cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/03.m3u8
+#EXTINF:-1  group-title="ARAB",Rotana Classic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/03.m3u8
+#EXTINF:-1  group-title="ARAB",Rotana Clip
+http://livecdnh3.tvanywhere.ae/hls/rotclip/03.m3u8
+#EXTINF:-1  group-title="ARAB",Rotana Drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/03.m3u8
+#EXTINF:-1  group-title="ARAB",Rotana Khalijia
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/03.m3u8
+#EXTINF:-1  group-title="ARAB",NAT GEO ABU DABI
+http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/03.m3u8
+#EXTINF:-1  group-title="ARAB",BOOMERANG
+http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
+#EXTINF:-1  group-title="ARAB",STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1  group-title="ARAB",CIN1
+http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
+#EXTINF:-1  group-title="ARAB",tv francophonie
+http://mv2.tvfrancophonie.org:80/live/Stream1/chunklist_w671289549_b776739.m3u8
+
+
+######## FILM ADULT ########
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 001
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 002
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/34a4ffea6a3b6e7eb540ef2b9c87d1837e979cc4f4/22000/22208/22208_720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 003
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/09c220507e5eacd02a880a5c0d86d2f054502a0687/21000/21377/21377_480p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 004
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/8b6be2c1709099cf93b91e7f678c2405e83cc07459/21000/21437/21437_480p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 005
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/ab4875ffc054d310b3c9212cad744105caede94cbf/21000/21604/21604_720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 006
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/31dd38c89a8141393b55e646ddef3ff0e0fb32374f/21000/21852/21852_240p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 007
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/e71af7fb85907d1dcdeb67294606aa968e82f2b211/19000/19307/19307_720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 008
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/39e59697fb545c20e6579a1ef9a3ea0bcdba216fdf/19000/19133/19133_360p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 009
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/5b732cbd90fb4ae00e4b00687f76e8e20698260669/19000/19288/19288_720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 010
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9ad35805e2670ae8523b6ceabb5d826db39d0d2dd4/20000/20347/20347_720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 011
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/01a5b4326587179de1c1c4d9424a54e33314993860/21000/21622/21622_720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 012
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/cb4ae6395bb82e8b711b220c31151cf925cfcce3f8/21000/21718/21718_480p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 013
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/1337a738b4fd5a50686c3eeb5e0b5bed2f86053e9f/21000/21717/21717_480p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 014
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9c06408da3a8c4aa8eb0f1c76a0c65d305147cda8d/21000/21715/21715_720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 015
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/df3ec0bc3c9cdf0da0338717be8a6bf017119c485b/21000/21339/21339_720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 016
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9fc60d8a025b57ddfad75bd4b4d494855ca8cb739d/18000/18952/18952_360p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 017
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/0b35c5f955c72ff8c23131e6217bf679832c9629c2/2000/2116/2116_720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 018
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/99d02092b408964ec2938497e8548b8fc8f63bbec9/2000/2131/2131_720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 019
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/939dfd767a7cb07739a77f9f80e20491e763ccfa76/2000/2208/2208_480p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="18+ BRAZIL TUBE",Brazil Tube - VOD 020
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/154de9282302a6b26fa97650b90a3d5386dc7219ac/2000/2121/2121_480p.mp4
+ 
+ 
+ #EXTINF:-1 group-title="18+ INDO" , Tante Lagi Belajar Live Streaming
+https://videos.videopress.com/aBpTymNo/Tante-Lagi-Belajar-Live-Stream_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Gosok Terus
+https://videos.videopress.com/Lf6ZjasL/Gosok-Terus-Sampe-Lecet_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Bikini-Biru-Muasain-Nafsu-Sendiri_std
+https://videos.videopress.com/MCHrAppY/Bikini-Biru-Muasain-Nafsu-Sendiri_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Antara-Becek-dan-Basah-Ini_std
+https://videos.videopress.com/gY8cKB1d/Antara-Becek-dan-Basah-Ini_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , BBW-Di-Hajar-Lobang-Belakang
+https://videos.videopress.com/D2VSTUGN/BBW-Di-Hajar-Lobang-Belakang-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , BBW-Menggoyang-Ranjang
+https://videos.videopress.com/L9oGsnH7/BBW-Menggoyang-Ranjang-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Nikmat-Bro-Tante-Rika
+https://videos.videopress.com/60vrZLjZ/Nikmat-Bro-Tante-Rika-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Cewe-SMA-Bikin-Video-HOT
+https://videos.videopress.com/DX1l8Nvl/Cewe-SMA-Bikin-Video-HOT-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Cewe-Amoy-Baju-Hijau-Di-Kampus
+https://videos.videopress.com/MZruSMxG/Cewe-Amoy-Baju-Hijau-Di-Kampus-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Cerita-Cinta-Gadis-Desa
+https://videos.videopress.com/AtNlR4NT/Cerita-Cinta-Gadis-Desa-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , ABG-SMA-Toge-Hot
+https://videos.videopress.com/WSgi7iCy/ABG-SMA-Toge-Hot-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Asmara-Tante-Erna
+https://videos.videopress.com/ZzgUjBTm/Asmara-Tante-Erna-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Dibuat-Sange-Dulu-Cewenya
+https://videos.videopress.com/10lTFjsY/Dibuat-Sange-Dulu-Cewenya-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Eh-Beneran-di-Mau-Goyang
+https://videos.videopress.com/QoELtSjd/Eh-Beneran-di-Mau-Goyang-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Suedap-Sekali-Rasanya
+https://videos.videopress.com/3uAj7Q8a/Suedap-Sekali-Rasanya-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Mellyta
+https://videos.videopress.com/Eqrml160/Mellyta.mp4-openload-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Masih-Belia-dah-Tau-Nikmatnya
+https://videos.videopress.com/Tz4EzsoN/Masih-Belia-dah-Tau-Nikmatnya-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Jilbaber-Pink-Show-In-App
+https://videos.videopress.com/S8AbD5MV/Jilbaber-Pink-Show-In-App-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Intan-Namanya-Belajar-Colmek
+https://videos.videopress.com/vKKMyEDJ/Intan-Namanya-Belajar-Colmek-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Genjotan-Jilbaber-Bikin-Nagih
+https://videos.videopress.com/Qj1cZ6qI/Genjotan-Jilbaber-Bikin-Nagih-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , ABG-SMA-Sange-Berat
+https://videos.videopress.com/GZLDni3x/ABG-SMA-Sange-Berat-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Eneng-Pasrah-Aja
+https://videos.videopress.com/xGsKZSOc/Eneng-Pasrah-Aja-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Meki-Sempit-Kena-Doggy
+https://videos.videopress.com/xADmOpK5/Meki-Sempit-Kena-Doggy-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , VCS-Bareng-Jilbab-Manis
+https://videos.videopress.com/ai1yLoPI/VCS-Bareng-Jilbab-Manis-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Maen-Bareng-Jeng-Mira
+https://videos.videopress.com/mkuFaEcX/Maen-Bareng-Jeng-Mira-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Semok-Mona-Mantan-Ku
+https://videos.videopress.com/lcYLJm59/Semok-Mona-Mantan-Ku-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , BOKEP INDOUnknown 34
+https://videos.videopress.com/mPR2Pn34/Terlalu-Semangat-Sering-Keluar-Jalur-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Belajar-Anal-Sampe-di-Semprot
+https://videos.videopress.com/urMIK7x0/Belajar-Anal-Sampe-di-Semprot-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Bra-Kuning-Semprot-Peju
+https://videos.videopress.com/g7N9t7DZ/Bra-Kuning-Semprot-Peju-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Hasil-VCS-Minggu-Ini
+https://videos.videopress.com/XYd1aRgD/Hasil-VCS-Minggu-Ini-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Rara-Maen-Di-Kost
+https://videos.videopress.com/HYZZtOuS/Rara-Maen-Di-Kost-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Pelan-Pelan-Asal-Nikmat
+https://videos.videopress.com/Cd8v121m/Pelan-Pelan-Asal-Nikmat-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Persiapan-Sebelum-Eksekusi-Lobangnya
+https://videos.videopress.com/Z6P6qiv5/Persiapan-Sebelum-Eksekusi-Lobangnya-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , SEMPROT-Tante-Sisca-Memenya
+https://videos.videopress.com/Ol8nn4Ik/SEMPROT-Tante-Sisca-Memenya-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Mojang-Karwawang
+https://videos.videopress.com/6sjjeotG/Mojang-Karwawang-F-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Compilasi-ABG-Dengan-Dildo
+https://videos.videopress.com/5N6g0Rlm/Compilasi-ABG-Dengan-Dildo-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Gampar Pantatnya Biar PANAS
+https://videos.videopress.com/wpvfJsf9/Gampar-Pantatnya-Biar-XPANAS-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Kanaya-Sedang-Sange-Nih
+https://videos.videopress.com/dMJVhRSs/Kanaya-Sedang-Sange-Nih-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Kenalan-Di-FB-dapet-Kaya-Gini
+https://videos.videopress.com/qFxKBKm4/Kenalan-Di-FB-dapet-Kaya-Gini-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Lagi-Tinggi-Pembokat-Pun-Jadi
+https://videos.videopress.com/jf07Oq3w/Lagi-Tinggi-Pembokat-Pun-Jadi_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Tante-di-Layanin-Brondong
+https://videos.videopress.com/JD6BbNkW/Tante-di-Layanin-Brondong-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Video-Untuk-Pacar-Nun-Jauh
+https://videos.videopress.com/YlBqlOM9/Video-Untuk-Pacar-Nun-Jauh-Bulan-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Ajib-Dia-Punya-MemeK
+https://videos.videopress.com/4c8ouPNp/Ajib-Dia-Punya-Meme-DIVX-High-quality-and-size-1_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Binor-Teman-Sekantor
+https://videos.videopress.com/BYn95HWb/Binor-Teman-Sekantor_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Hasil-SSI-Istri-Teman
+https://videos.videopress.com/TJieOTgf/Hasil-SSI-Istri-Teman-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Gadis-Bertudung-Buat-Video-Bugil
+https://videos.videopress.com/rCKBvMix/Gadis-Bertudung-Buat-Video-Bugil-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Gadis-IGO-Vcs-Sama-Pacar
+https://videos.videopress.com/uP74zNam/Gadis-IGO-Vcs-Sama-Pacar-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Gadis-SMA-Mabuk-Berat
+https://videos.videopress.com/IYw3qnaH/Gadis-SMA-Mabuk-Berat-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Lagi-Enak-Tidur-di-Giniin
+https://videos.videopress.com/Hbv9cgbt/Lagi-Enak-Tidur-di-Giniin-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Pacarnya-Kabur-Mau-Di-CRot
+https://videos.videopress.com/O8qCksER/Pacarnya-Kabur-Mau-Di-CRot-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Bispak Recomended Bisa Di Crot di Dalem
+https://videos.videopress.com/1pEIymve/Bispak-Recomended-Bisa-Di-Crot-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Buat-Iklan-Medsos-Versi-Bugil
+https://videos.videopress.com/IphxIkSH/Buat-Iklan-Medsos-Versi-Bugil-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Masih-Kurang-Puas-Katanya
+https://videos.videopress.com/6SUaCSxr/Masih-Kurang-Puas-Katanya-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Mengkel-Banget-Dia-Punya-Toket
+https://videos.videopress.com/AwY61VOz/Mengkel-Banget-Dia-Punya-Toket-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Teman-Kenalan-di-FB-Minta-Nambah
+https://videos.videopress.com/PSs9DdO4/Teman-Kenalan-di-FB-Minta-Nambah-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Yang-Begini-Bikin-Gemes
+https://videos.videopress.com/recApmzH/Yang-Begini-Bikin-Gemes-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Bikin-Basah-Janda-Kesepesian
+https://videos.videopress.com/4HmPKGID/Bikin-Basah-Janda-Kesepesian_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Intip-Celana-Dalam-Wanita-Kompilasi
+https://videos.videopress.com/3IIZp9tT/Intik-Celana-Dalam-Wanita-Kompilasi_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Udah-Di-Crot-Masih-Lanjut
+https://videos.videopress.com/CjVXN1vk/Udah-Di-Crot-Masih-Lanjut_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Gadis-Jilbab-Hitam-Ngulum
+https://videos.videopress.com/rTPYzXIn/Gadis-Jilbab-Hitam-Ngulum_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Korek-Lubang-Pembuangannya
+https://videos.videopress.com/v9j8IUoX/Korek-Lubang-Pembuangannya-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Skandal-Nana-ABG-Lucah-Melayu
+https://videos.videopress.com/Vdi8Hgq1/Skandal-Nana-ABG-Lucah-Melayu_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Bercinta-Dengan-Janda-Semox
+https://videos.videopress.com/KDXx8qly/Bercinta-Dengan-Janda-Semox-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Berisik-Akibat-Ke-Enakan
+https://videos.videopress.com/yRC4sB7J/Berisik-Akibat-Ke-Enakan-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Ngen-Di-Tangga-Darurat-Sange
+https://videos.videopress.com/LTMWF58d/Ngen-Di-Tangga-Darurat-Sange-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Gadis-Manis-Di-Suruh-Sepong
+https://videos.videopress.com/2EDqOYO9/Gadis-Manis-Di-Suruh-Sepong-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Jangan-Di-Tonton-Gak-Tega-Ekpresinya
+https://videos.videopress.com/QpVsSm7S/Jangan-Di-Tonton-Gak-Tega-Ekpresinya-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Mual-Kena-Crot-Sperma
+https://videos.videopress.com/JUAdYHEs/Mual-Kena-Crot-Sperm-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , ABG-Gadis-SMA-ML-Sangar
+https://videos.videopress.com/jKOYBTct/ABG-Gadis-SMA-ML-Sangar-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Bispa-Murah-diajak-3some
+https://videos.videopress.com/UUboGgLj/Bispa-Murah-diajak-3some-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , ML-di-Apart-Dari-Sofa-Sampe-CROT
+https://videos.videopress.com/kuR0UitR/ML-di-Apart-Dari-Sofa-Sampe-CROT_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Avail-dapet-Milf-Bohay
+https://videos.videopress.com/VHxnZU0y/Avail-dapet-Milf-Bohay-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Sebut-Saja-Namanya-Mawar
+https://videos.videopress.com/MsS0W4qi/Sebut-Saja-Namanya-Mawar-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Perhatikan-Di-Pojok-ada-Balon
+https://videos.videopress.com/3jzACtnT/Perhatikan-Di-Pojok-ada-Balon-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Usap-Gosok-Sampe-Basah
+https://videos.videopress.com/87ZizcZw/Usap-Gosok-Sampe-Basah_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Hajar-Terus-Meme-Tante
+https://videos.videopress.com/ICzOiW0Y/Hajar-Terus-Meme-Tante-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Hasil-FR-Bulan-Dec-2018
+https://videos.videopress.com/o8HdtCtA/Hasil-FR-Bulan-Dec-2018-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Pulang-Sekolah-Di-Goyang-Pacar
+https://videos.videopress.com/rgmZM4mP/Pulang-Sekolag-Di-Goyang-Pacar-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Saksi-Bisu-Sofa-Room-Apart
+https://videos.videopress.com/7JcRZJvD/Saksi-Bisu-Sofa-Room-Apart_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Miss-Claudy-WP-Spa-MEDAN
+https://videos.videopress.com/Dgy77v3V/Miss-Claudy-WP-Spa-MEDAN-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ INDO" , Ina-Goyang-Mesum-Di-Kamar
+https://videos.videopress.com/1CzVxbPe/Ina-Goyang-Mesuk-Di-Kamar-DIVX-High-quality-and-size_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , an-affair-jeongsa-2018
+https://videos.videopress.com/ZjoJ5CQJ/an-affair-jeongsa-2018-full-korea-18-watch-online-free-on-hdmovie8-com_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , hope_of_breast_2017
+https://videos.videopress.com/S5QNTF25/hope_of_breast_2017_hd_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , good-girlfriend-2018-chaghan-yeojachingu
+https://videos.videopress.com/QxfWXGZc/good-girlfriend-2018-chaghan-yeojachingu-watch-online-free-on-hdmovie8-com_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , cheating-wife-2-2018-korea-movie
+https://videos.videopress.com/dA1EFdZV/cheating-wife-2-2018-korea-movie-18-erotic-adult-watch-online-free_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , a-virgin-2018
+https://videos.videopress.com/OrHQxUIm/a-virgin-2018-720p-hd-kr18_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , national-sexuality-management-committee
+https://videos.videopress.com/XQAMXpTr/national-sexuality-management-committee-full-korea-18-watch-online-free-on-hdmovie8-com_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , step-brother-2-2018
+https://videos.videopress.com/VtGPTUDg/step-brother-2-2018-720p-kr-18-uncut_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , friend-mothers-2018
+https://videos.videopress.com/Oo8S4muf/friend-mothers-2018-full-korea-18-movie-watch-online-free-on-hdmovie8-com_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , The-Taste-Of-Money-2012
+https://videos.videopress.com/9GdyKBUU/The-Taste-Of-Money-2012-Online-Watch-Free-HD-Movies-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Young-Sister-in-law-2-2018
+https://videos.videopress.com/egmpSMq8/Young-Sister-in-law-2-2018-Online-Korea-18HD-Online-Free-On-HDMovie8.Com-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Buddys-Mom-2018-Full-Korea-Movie
+https://videos.videopress.com/k3IM0bC9/Buddys-Mom-2018-Full-Korea-Movie-18-Erotic-Adult-Sex-Online-Free-On-HDMovie8.Com-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , An-Affair-My-Sister-in-laws
+https://videos.videopress.com/lMBA851S/An-Affair-My-Sister-in-laws_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Kind-Sisters
+https://videos.videopress.com/r8Z3xf1i/Kind-Sisters-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Business_-Campus-Couples-2018
+https://videos.videopress.com/9NQDr36U/Business_-Campus-Couples-2018-720p-HDRip-KR18-Uncut_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Delicious-Sisters-2018-Full-Movie-Korea-18+
+https://videos.videopress.com/m5fBthpE/Delicious-Sisters-2018-Full-Movie-Korea-18-Erotic-Adult-Sex-HD-Online-Free-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Korean-Perversion-Obsidian-2018
+https://videos.videopress.com/8ptNBMLZ/Korean-Perversion-Obsidian-2018-Watch-Korea-Movie-18-Erotic-Adolt-Sex-Online-Free-On-HDMovie8.Com-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , My-Girlfriends-Mom-2018-Full-Korea-18+
+https://videos.videopress.com/hpZNkqrE/My-Girlfriends-Mom-2018-Full-Korea-18-Erotic-Adult-Sex-Online-Free-On-HDMovie8.Com-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Yidong-Man-and-Woman-of-Kimbone-2018
+https://videos.videopress.com/EYjJ7lLG/Yidong-Man-and-Woman-of-Kimbone-2018-Watch-Korea-18-Online-Free-On-HDMovie8.Com-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Mommys-Lover-2018
+https://videos.videopress.com/XBobBYDb/Mommys-Lover-2018-Full-Movie-Korea-18-Adult-Sex-Watch-And-Download-Online-Free-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , My-Girlfriends-Mother-2-2018
+https://videos.videopress.com/KI2EfAct/My-Girlfriends-Mother-2-2018-720p-Korea-18-Uncut_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , New-Moms-Gift-Rice-Cake-2018
+https://videos.videopress.com/tANnPSls/New-Moms-Gift-Rice-Cake-2018-Full-Movie-Korea-18-Stream-Online-Free-On-HDMovie8.Com-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Loose-Women-2-2018
+https://videos.videopress.com/WpoHvFKW/Loose-Women-2-2018-Korea-movie-18-plus-adult-erotic-watch-online-free-eng-sub-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , A-Delicious-Wife-2018
+https://videos.videopress.com/L8XejI9N/A-Delicious-Wife-2018-720p-HD-Korea-18_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Brothers-Girl-2018
+https://videos.videopress.com/PeEYmyd6/Brothers-Girl-2018-720p-HD-KR18_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Good-Water-Boarding-House-2018
+https://videos.videopress.com/6E56MB8g/Good-Water-Boarding-House-2018-Full-Movie-Korea-18-Online-Free-On-HDMovie8.Com-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Honesty-Good-Daughters-2-2018
+https://videos.videopress.com/xSqRya5J/Honesty-Good-Daughters-2-2018-720p-HD-KR18_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" ,  26
+https://videos.videopress.com/6S3GFyND/Nice-Sister-In-Law-2018-Full-Korea-18-Online-Full-HD-Online-Free-On-HDMovie8.Com-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Nice-Sister-In-Law-2018
+https://videos.videopress.com/P0dCoona/Mother-Of-The-Same-Age-2018-720p-HD-Korea-18_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Secret-Womans-Private-Life-2018
+https://videos.videopress.com/NZxzyo4C/Secret-Womans-Private-Life-2018-Full-Korea-18-Online-Free-On-HDMovie8.Com-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , A-Wife-2018
+https://videos.videopress.com/mU7uLWoF/A-Wife-2018-720p-HD-KR18_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Schoolmistress-2-2018
+https://videos.videopress.com/gRRB9LOq/Schoolmistress-2-2018-720p-HD-KR18_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , My-First-Love-2018-Korea-Movie-18
+https://videos.videopress.com/OsalUova/My-First-Love-2018-Korea-Movie-18-Adult-Erotic-Sex-HD-Watch-Online-Free-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Female-Workers-2-to-2-Sex-2018
+https://videos.videopress.com/jcs0aXru/Female-Workers-2-to-2-Sex-2018-Online-Full-720p-HD-Online-Free-On-HDMovie8.Com-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , One-person-at-a-time
+https://videos.videopress.com/gxVgzSCm/One-person-at-a-time-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Pretty-Sister-2018
+https://videos.videopress.com/Hpsshxvf/Pretty-Sister-2018-Full-Korea-Movie-18-Online-Free-On-HDMovie8.Com-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , The-Third-Mom-2018
+https://videos.videopress.com/E7aRhxzE/The-Third-Mom-2018-Full-Movie-Korea-18-Erotic-Adult-Sex-HD-Online-Free-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , The-Girl-Next-Door2-2018
+https://videos.videopress.com/mL9QA8qm/The-Girl-Next-Door2-2018_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Sisters-Secret-Swapping-2018
+https://videos.videopress.com/1Mx3qN7i/Sisters-Secret-Swapping-2018-Korea-Movie-18-Watch-Online-Free-On-HDMovie8.Com-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Millae-Good-brother-2018
+https://videos.videopress.com/gZ7bP2tM/Millae-Good-brother-2018-720p-HD-KR18.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Korean-Perverted-Fires-2018
+https://videos.videopress.com/ZS9WELeK/Korean-Perverted-Fires-2018-Korea-18-Movie-Watch-Online-Free-On-HDMovie8.Com-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , A-Housekeeper-to-Tame-2018
+https://videos.videopress.com/RAwbCKY9/A-Housekeeper-to-Tame-2018-720p-HD-KR18_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Church-Sister-2018
+https://videos.videopress.com/b4qUqdz4/Church-Sister-2018-Full-Korea-18-Watch-ANd-Download-Online-Full-HD-Online-Free-On-HDMovie8.Com-_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Delicious-Room-Salon-Service
+https://videos.videopress.com/z1TtCKsi/Delicious-Room-Salon-Service-Mov18plus.Com__std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Erotic-Model
+https://videos.videopress.com/mevGYw7p/Erotic-Model-Mov18plus.Com__std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Swamp-of-Sex-2016
+https://videos.videopress.com/ncddgDZT/Swamp-of-Sex-2016_std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Adult-Goods-Instruction-Manual-2018
+https://videos.videopress.com/sUr5Nwz5/Adult-Goods-Instruction-Manual-2018-Uncut-Watch-Movie-18-Adult-Erotic-Sex-Online-Free-Mov18plus.Com__std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , An-Immoral-Friend-Mom-2018
+https://videos.videopress.com/nnaJW9VR/An-Immoral-Friend-Mom-2018-Watch-Movie-18-Adult-Erotic-Sex-Online-Free-Mov18plus.Com__std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Big-Ass-Subordinate-2018
+https://videos.videopress.com/4yQTiqS2/Big-Ass-Subordinate-2018-Watch-Movie-18-Adult-Erotic-Sex-Online-Free-Mov18plus.Com__std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , My-Students-Mom-3-2018
+https://videos.videopress.com/07y5U2Jc/My-Students-Mom-3-2018-Full-Movie-watch-Korea-18-Online-Free-On-HDMovie8.Com-Mov18plus.Com__std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Stepmom-3-2018
+https://videos.videopress.com/LGaVDxeL/Stepmom-3-2018-Watch-Movie-18-Adult-Erotic-Sex-Online-Free-Mov18plus.Com__std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Enka-Women-Disorder-Love-Story-Scenery-2018
+https://videos.videopress.com/0CcM6S8L/Enka-Women-Disorder-Love-Story-Scenery-2018-Watch-Movie-18-Adult-Erotic-Sex-Online-Free-Mov18plus.Com__std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Stepmother-Is-University-Student-2018
+https://videos.videopress.com/lk4G2hTT/Stepmother-Is-University-Student-2018-Watch-Movie-18-Adult-Erotic-Sex-Online-Free-Mov18plus.Com__std.mp4
+ 
+#EXTINF:-1 group-title="18+ SEMI" , Moms-Friends-Taste
+https://videos.videopress.com/hvr5jkro/Moms-Friends-Taste-Watch-Movie-18-Adult-Erotic-Sex-Online-Free-Mov18plus.Com__std.mp4
+
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 01
+http://stream2.fastcdn.me/flv/490.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 02
+http://stream2.fastcdn.me/flv/487.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 03
+http://stream2.fastcdn.me/flv/484.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 04
+http://stream2.fastcdn.me/flv/481.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 05
+http://stream2.fastcdn.me/flv/459.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 06
+http://stream2.fastcdn.me/flv/456.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 07
+http://stream2.fastcdn.me/flv/451.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 08
+http://stream2.fastcdn.me/flv/422.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 09
+http://stream2.fastcdn.me/flv/414.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 10
+http://stream2.fastcdn.me/flv/416.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 11
+http://stream2.fastcdn.me/flv/408.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 12
+http://stream2.fastcdn.me/flv/409.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 13
+http://stream2.fastcdn.me/flv/391.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 14
+http://stream2.fastcdn.me/flv/389.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 15
+http://stream2.fastcdn.me/flv/377.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 16
+http://stream2.fastcdn.me/flv/375.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 17
+http://stream2.fastcdn.me/flv/370.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 18
+http://stream2.fastcdn.me/flv/371.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 19
+http://stream2.fastcdn.me/flv/363.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 20
+http://stream2.fastcdn.me/flv/359.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 21
+http://stream2.fastcdn.me/flv/356.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 22
+http://stream2.fastcdn.me/flv/347.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 23
+http://stream2.fastcdn.me/flv/367.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 24
+http://stream2.fastcdn.me/flv/346.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 25
+http://stream2.fastcdn.me/flv/343.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 26
+http://stream2.fastcdn.me/flv/337.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 27
+http://stream2.fastcdn.me/flv/336.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 28
+http://stream2.fastcdn.me/flv/333.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 29
+http://stream2.fastcdn.me/flv/326.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 30
+http://stream2.fastcdn.me/flv/322.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 31
+http://stream2.fastcdn.me/flv/318.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 32
+http://stream2.fastcdn.me/flv/316.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 33
+http://stream2.fastcdn.me/flv/308.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 34
+http://stream2.fastcdn.me/flv/311.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 35
+http://stream2.fastcdn.me/flv/310.mp4
+
+#EXTINF:  group-title="18+ CAMPURAN",ADULTPorn-Stream - VOD 36
+http://stream2.fastcdn.me/flv/301.mp4
